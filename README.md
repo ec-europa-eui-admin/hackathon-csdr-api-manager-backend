@@ -1,6 +1,8 @@
 # csdr-api-manager-backend
 
-http://hackathon.ecdevops.eu/ or http://h4ck.ecdevops.eu/
+## Backend for API Manager
+This consist of a node server connected to a mongodb with a named volume.
+To serve as a quickstart for participants on the EC Hackathon (Oct 5th and 6th)
 
 To start the project.
 
