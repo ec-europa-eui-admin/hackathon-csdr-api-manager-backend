@@ -1,6 +1,6 @@
 # csdr-api-manager-backend
 
-http://hackaton.ecdevops.eu/
+http://hackathon.ecdevops.eu/ or http://h4ck.ecdevops.eu/
 
 To start the project.
 
